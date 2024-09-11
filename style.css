@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: o;
+    box-sizing: border-box;
+}
+
+.img {
+    max-width: 100%;
+}
+
+/*utiliti*/
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -0,5;
+}
+/*flex*/
+.d-fex{
+    display: flex;
+}
